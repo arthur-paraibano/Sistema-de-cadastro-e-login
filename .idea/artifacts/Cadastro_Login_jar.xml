@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Cadastro_Login:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cadastro_Login_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Cadastro_Login.jar">
+        <element id="module-output" name="Cadastro_Login" />
+      </element>
+      <element id="library" level="project" name="mail" />
+    </root>
+  </artifact>
+</component>

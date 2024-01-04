@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="mail">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gmail/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/conectores/ojdbc11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/conectores/mysql-connector-j-8.0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gmail/javax.faces-api-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gmail/javax.activation-1.1.0.v201105071233.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/conectores/ojdbc8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gmail/javax-inject.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gmail/javax.ejb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
